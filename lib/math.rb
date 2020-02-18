@@ -19,7 +19,7 @@ return sum
 end
 
 def modulo(num1, num2)
-
+sum = math.modulo(num1,)
 end
 
 def square_root(num)
