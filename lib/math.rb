@@ -24,5 +24,5 @@ return sum
 end
 
 def square_root(num)
-  
+  sum = m
 end
